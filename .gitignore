@@ -2,6 +2,7 @@
 train/
 valid/
 test/
+test_results/
 
 # Ignore model outputs and checkpoints
 runs/
