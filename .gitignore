@@ -1,0 +1,19 @@
+# Ignore dataset folders
+train/
+valid/
+test/
+
+# Ignore model outputs and checkpoints
+runs/
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
